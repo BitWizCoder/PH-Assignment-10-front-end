@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Apple",
+    "image": "https://i.ibb.co/3NyGfGf/apple.jpg",
+    "route": "/apple"
+  },
+  {
+    "id": 2,
+    "name": "Motorola",
+    "image": "https://i.ibb.co/Kjffnfz/motorola.jpgg",
+    "route": "/motorola"
+  },
+  {
+    "id": 3,
+    "name": "HP",
+    "image": "https://i.ibb.co/YjPmRGq/hp.jpg",
+    "route": "/hp"
+  },
+  {
+    "id": 4,
+    "name": "One Plues",
+    "image": "https://i.ibb.co/GsBwYn5/one-plus.jpg",
+    "route": "/one-plus"
+  },
+  {
+    "id": 5,
+    "name": "Samsung",
+    "image": "https://i.ibb.co/NTYKrYr/samsung.jpg",
+    "route": "/samsung"
+  },
+  {
+    "id": 6,
+    "name": "Xiomi",
+    "image": "https://i.ibb.co/HVHhbmC/xiomi.jpg",
+    "route": "/xiomi"
+  }
+]
