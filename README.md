@@ -1,6 +1,6 @@
 # Real estate Platform
 
-[Live Preview](https://assignment-11-front-end.netlify.app/)
+[Live Preview](https://assignment-10-ph.netlify.app/)
 
 ## Project Features
 
